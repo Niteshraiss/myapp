@@ -1,0 +1,19 @@
+mat-form-field
+{
+  width: 100vw;
+}
+
+input[type="text"]
+{
+  text-align: center;
+  width: 80vw;
+}
+.btn-center
+{
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 15px;
+  margin-left: 600px;
+}
